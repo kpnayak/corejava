@@ -30,7 +30,7 @@ class Deposit implements Runnable {
 			}
 
 		} catch (Exception e) {
-			System.out.println("Inside the Deposit " + e);
+			System.out.println("Inside The Deposit " + e);
 		}
 
 	}
